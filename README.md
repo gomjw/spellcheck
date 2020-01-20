@@ -8,7 +8,7 @@
 ## Install
 
 ```console
-go get -u github.com/gomjw/spellcheck/...
+go get -u github.com/gomjw/spellcheck
 ```
 
 ## Import
@@ -32,4 +32,4 @@ CheckWord checks if the input is in a dataset of every english word.
 
 > Made by the awesome contributors of [@gomjw](https://github.com/gomjw) &nbsp;&middot;&nbsp;
 > Maintainer [@MarvinJWendt](https://github.com/MarvinJWendt) &nbsp;&middot;&nbsp;
-> Readme template version: 1.1.0
+> Readme template version: 1.1.1
